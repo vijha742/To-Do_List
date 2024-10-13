@@ -3,8 +3,7 @@ This to do list project written in java is aimed to learn the ins and outs of ja
 
 ## Technologies used:
 - Java 11
-- JDBC
-- Sqlite3
+- GSON
 - Tmux
 - Bash script
 
@@ -19,10 +18,10 @@ More features updating soon...
 ### Structure of task
 - Title
 - Due date
-- Task id
+- Task id (Not yet available)
 - Status
 - Description
 
 ## Checklist
-- [x] add task id feature
+- [ ] add task id feature
 - [ ] project feature
