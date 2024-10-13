@@ -24,5 +24,5 @@ More features updating soon...
 - Description
 
 ## Checklist
-- [-] add task id feature
+- [x] add task id feature
 - [ ] project feature
